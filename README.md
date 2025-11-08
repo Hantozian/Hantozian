@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=150&center=true&multiline=true&width=600&height=100&lines=Hello!;I+am+a+full-stack+developer+from+Russia.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=150&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello!;I+am+a+full-stack+developer+from+Russia.)](https://git.io/typing-svg)
