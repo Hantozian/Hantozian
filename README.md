@@ -15,6 +15,13 @@
 
 <div align="center"><p>I'm learning everything about web development and upgrading my skills.</p></div>
 
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'Hantozian' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hantozian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -25,7 +32,7 @@
 
 ### ⚙️ Backend
 
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&color=4169e1">
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&color=4169e1">
 
 ### 🚀 DevOps
 
