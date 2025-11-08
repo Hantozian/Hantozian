@@ -1,18 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=150&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello!;I+am+a+full-stack+developer+from+Russia.)](https://git.io/typing-svg)
-
-
 <div align="center">
 
-# 🌟 Welcome to Artyom's Profile 🌟
+# ✨ Artyom ✨
 
 <p><em>FullStack developer from Russia</em></p>
 
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+<hr>
 
 </div>
-
-<hr>
 
 ## 🌱 I'm currently learning
 
@@ -22,13 +16,13 @@
 
 <div align="center">
 
-### ⚙️ Backend
+**⚙️ Backend**
 
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1">
+`Node.js` • `Express` • `PostgreSQL`
 
-### 💬 Languages
+**💬 Languages**
 
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500">
+`JavaScript`
 
 </div>
 
@@ -36,7 +30,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Hantozian"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> 
+<a href="https://github.com/Hantozian"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> 
 
 </div>
 
@@ -50,11 +44,6 @@
 
 <div align="center">
 
-<!-- ⚠️ Important: Replace 'Hantozian' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=Hantozian&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/Hantozian?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
 
 </div>
