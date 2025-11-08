@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Welcome to Artyom's Profile 🌟
+# 🌟 Hello! I am Artyom 🌟
 
 <p><em>FullStack developer from Russia</em></p>
 
@@ -49,6 +49,9 @@
 <div align="center">
 
 <a href="https://github.com/Hantozian"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> 
+<a href="https://leetcode.com/u/Hantozian/"><img src="https://img.shields.io/badge/leetcode-%23121011.svg?style=for-the-badge&logo=leetcode&logoColor=white&color=orange"></a>
+<a href="https://www.youtube.com/@Hantozian"><img src="https://img.shields.io/badge/youtube-%23121011.svg?style=for-the-badge&logo=youtube&logoColor=white&color=red"></a>
+<a href="https://stackoverflow.com/users/30770761/hantozian"><img src="https://img.shields.io/badge/stackoverflow-%23121011.svg?style=for-the-badge&logo=stackoverflow&logoColor=white&color=darkorange"></a>
 
 </div>
 
