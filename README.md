@@ -67,7 +67,7 @@
 
 <div align="center">
 
-**Telegram:** @hantozian11
+**Telegram:** @hantoziandev
 
 
 </div>
