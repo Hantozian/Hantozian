@@ -15,13 +15,6 @@
 
 <div align="center"><p>I'm learning everything about web development and upgrading my skills.</p></div>
 
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace 'Hantozian' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hantozian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
 ## 💻 Tech Stack
 
 <div align="center">
