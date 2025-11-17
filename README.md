@@ -1,5 +1,5 @@
 <div align="center">
-.
+
 # 🌟 Hello! I am Artyom 🌟
 
 <p><em>FullStack developer from Russia</em></p>
