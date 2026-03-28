@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hantozian
 
-<!--
-**Hantozian/Hantozian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇷🇺 RU
+Backend Go разработчик. Занимаюсь серверной частью и стартапами.
 
-Here are some ideas to get you started:
+- **Стек:** Go, PostgreSQL, Docker, Redis.
+- **Контакты:** [Telegram](https://t.me/hantozian6) | github.hantozian@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🇺🇸 EN
+Backend Go developer. Focused on backend and startups.
+
+- **Stack:** Go, PostgreSQL, Docker, Redis.
+- **Contact:** [Telegram](https://t.me/hantozian6) | github.hantozian@gmail.com
+
+---
+
+![Hantozian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hantozian&show_icons=true&theme=vibrant&hide_border=true)
